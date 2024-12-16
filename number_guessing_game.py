@@ -2,7 +2,7 @@
 import random
 import time
 
-print("Welcome to the Number Guessing Game by Martin Thong.")
+print("Welcome to the Number Guessing Game")
 print("Hope you have fun!!!")
 players = input("Enter the number of players: ")
 while players.isdigit() != True:
@@ -95,5 +95,5 @@ for r in range(round):
 
 print
 print("Thanks for playing!")
-print("Signed off, Martin Thong...")
+print("Signed off, Mayank...")
 time.sleep(5)
